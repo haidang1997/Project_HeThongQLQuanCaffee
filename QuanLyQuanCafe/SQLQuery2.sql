@@ -1,0 +1,1 @@
+update Ban set TrangThai = 0 where MaBan = 2
